@@ -1,0 +1,8 @@
+{
+"deviceName": "a8dbf256",
+"appPackage": "tv.hooq.android",
+"appActivity": "tv.hooq.androidbeta.views.activity.MainActivity"
+"platformName": "Android",
+"noReset": "true",
+"forceMjsonwp": "true",    
+}
